@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sandra Saji! 👋
 
-<!--
-**sandrasaji-data-analyst/sandrasaji-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+🎓 **B.Tech Graduate in Electronics and Communication Engineering (2025)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
+
+- 🎓 B.Tech graduate in Electronics and Communication Engineering.
+- 📊 Completed 6 months of practical training in Python and Data Analytics with Power BI.
+- 💡 Interested in Data Analytics, Data Visualization and Business Intelligence.
+- 🚀 Completed 2 hands-on Data Analytics projects.
+- 🎯 Currently looking for entry-level Data Analyst opportunities.
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python
+- **Data Analysis:** Data Cleaning and Exploratory Data Analysis
+- **Database:** SQL
+- **Data Visualization:** Power BI
+- **Spreadsheet:** Microsoft Excel
+
+## 📂 My Projects
+
+I have completed two practical Data Analytics projects where I applied my technical knowledge to analyse data and generate meaningful insights.
+
+More details, dashboards and project documentation will be added here.
+
+## 🎯 Career Objective
+
+To begin my career as a Data Analyst, continuously improve my analytical skills and contribute to solving real-world business problems through data-driven insights.
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sandrasaji1)
+- 🐙 GitHub: [My GitHub Profile](https://github.com/sandrasaji-data-analyst)
+
+---
+
+⭐ Thank you for visiting my profile!
