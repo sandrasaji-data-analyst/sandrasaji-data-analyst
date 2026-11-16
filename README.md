@@ -1,8 +1,9 @@
-# Hi, I'm Sandra Saji!
+
+# Hi, I'm Sandra Saji! 
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-**B.Tech Graduate in Electronics and Communication Engineering (2025)**
+B.Tech Graduate in Electronics and Communication Engineering (2025)
 
 ## About Me
 
@@ -18,13 +19,36 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 - **Programming:** Python
 - **Data Analysis:** Data Cleaning and Exploratory Data Analysis
-- **Database:** SQL
+- **Database:** SQL, MySQL
 - **Data Visualization:** Power BI
 - **Spreadsheet:** Microsoft Excel
+- **Other Skills:** DAX, GitHub
+
+## Education
+
+**Bachelor of Technology (B.Tech) – Electronics and Communication Engineering**
+
+- Sree Buddha College of Engineering, Alappuzha, Kerala
+- October 2021 – May 2025
+- CGPA: 7.11/10
+
+## Training
+
+**Python Data Analytics with Power BI – 6 Months**
+
+- Luminar Technolab, Kochi, Kerala
+- August 2025 – January 2026
+
+## Certifications
+
+**Python Data Analytics with Power BI**
+
+- National Council for Technology and Training (NACTET)
+- Grade: A+
 
 ## My Projects
 
-I have completed two practical Data Analytics projects where I applied my technical knowledge to analyze datasets, perform data analysis and create interactive dashboards.
+I have completed two practical Data Analytics projects where I applied my technical knowledge to analyze datasets, generate meaningful insights and create interactive dashboards.
 
 ### 1. Global Superstore Sales Performance Analysis
 
@@ -43,7 +67,7 @@ I have completed two practical Data Analytics projects where I applied my techni
 - Cleaned and preprocessed EV charging data using Python.
 - Used SQL queries to analyze charging sessions, user activity and charging station performance.
 - Created 12 DAX measures in Power BI.
-- Developed interactive dashboards covering charging overview, time and location analysis, and user and cost analysis.
+- Developed interactive dashboards covering Charging Overview, Time & Location Analysis, and User & Cost Analysis.
 
 **[View Project Repository](https://github.com/sandrasaji-data-analyst/ev-charging-analysis-dashboard)**
 
@@ -58,4 +82,4 @@ To begin my career as a Data Analyst, continuously improve my analytical skills 
 
 ---
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! 
